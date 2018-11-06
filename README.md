@@ -16,3 +16,4 @@ To Use:
 To test:
 
 - This command will run both the rspec tests and simplecov `bundle exec rspec`
+- To view the coverage detail as a webpage run `open coverage/index.html`
