@@ -9,9 +9,10 @@ To Use:
 ---
 
 - Clone or fork this project `git clone https://github.com/Whatapalaver/Simple_Ruby_Project.git`
-- Change into the directory `cd simple_ruby_project`
+- Change into the directory `cd Simple_Ruby_Project`
 - Install dependencies `bundle install`
+- You should also create a .gitignore file to prevent all the coverage files being sent to github: `echo "coverage" >> .gitignore`
 
 To test:
 
-- This will run both the rspec tests and simplecov `bundle exec rspec`
+- This command will run both the rspec tests and simplecov `bundle exec rspec`
