@@ -5,6 +5,8 @@ This is a boilerplate template for a very simple Ruby project. It includes rspec
 
 I've created a dummy 'starter-code' template so that all the test files can be linked up. Just change the names or delete and start from scratch.
 
+*If you want a simple web app template with Sinatra and Capybara (for testing) try the branch called ruby_sinatra*
+
 To Use:
 ---
 
