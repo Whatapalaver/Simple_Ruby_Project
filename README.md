@@ -1,7 +1,7 @@
 Ruby Project Starter Template
 ====
 
-This is a boilerplate template for a very simple Ruby project. It includes rspec, simplecov and a rubocop linter from Makers.
+This is a boilerplate template for a very simple Ruby project. It includes rspec, simplecov and a rubocop linter from Makers. [Pry](https://github.com/pry/pry) installed for debugging.
 
 I've created a dummy 'starter-code' template so that all the test files can be linked up. Just change the names or delete and start from scratch.
 
