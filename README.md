@@ -10,6 +10,8 @@ Controller = app.rb
 
 I've created a dummy 'starter-code' template so that all the test files can be linked up. Just change the names or delete and start from scratch.
 
+I've set up the config.ru files and Procfile so that it should deploy successfully to Heroku.
+
 To Use:
 ---
 
@@ -17,7 +19,7 @@ To Use:
 - Change into the directory `cd Simple_Ruby_Project`
 - Install dependencies `bundle install`
 - You should also create a .gitignore file to prevent all the coverage files being sent to github: `echo "coverage" >> .gitignore`  
-- to run the server `shotgun app.rb` or `sinatra app.rb`
+- to run the server `rackup config.ru`
 
 To test:
 
